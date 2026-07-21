@@ -11,7 +11,10 @@
 
 ### 👋 About
 
-Frontend Developer with 3+ years of commercial experience delivering enterprise web applications using React, TypeScript, JavaScript (ES6+), and Redux Toolkit. Specialized in developing internal business systems and custom software solutions, building scalable component-based architectures, integrating REST APIs, and implementing complex business logic. Experienced in collaborating with cross-functional teams to deliver reliable, maintainable, and high-performance products in Agile environments.
+Frontend Developer, 31, with 2+ years of experience building and maintaining React web applications — responsive
+UIs, complex forms, and REST API integrations for both internal business systems and client-facing products with
+5,000+ users. Career-changer from the energy sector (boiler operator → Heat Inspection Engineer, 1st category, 5+
+years), now pursuing a first degree in IT alongside hands-on development work.
 
 - 🎯 **Focus:** Design systems • Performance Optimisation • AI Agents
 - 📍 **Based in:** Moscow, Russia
